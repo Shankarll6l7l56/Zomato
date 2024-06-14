@@ -1,0 +1,6 @@
+.bg-img{
+    background-image: url('./puble/backimg.png');
+    height: 65vh;
+    background-size: cover;
+    background-position: 0%;
+}
