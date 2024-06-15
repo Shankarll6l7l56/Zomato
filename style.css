@@ -1,6 +1,20 @@
+body, button, input, input::placeholder {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .bg-img{
     background-image: url('./puble/backimg.png');
     height: 65vh;
     background-size: cover;
     background-position: 0%;
 }
+.sect-2-img {
+    height: 185px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 12px;
+  }
+  .sect-2-img img {
+    position: absolute;
+    top: -35%;
+  }
+  
