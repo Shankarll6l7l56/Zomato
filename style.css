@@ -17,4 +17,23 @@ body, button, input, input::placeholder {
     position: absolute;
     top: -35%;
   }
+  .sect-card:hover{
+    scale: 1.05;
+    transition: .5s;
+  }
+  .sect-card{
+    transition: .5s;
+  }
+  .conta {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .conta .content {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+  }
   
