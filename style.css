@@ -24,16 +24,16 @@ body, button, input, input::placeholder {
   .sect-card{
     transition: .5s;
   }
-  .conta {
+  .sect-4-img {
     position: relative;
     max-width: 800px;
     margin: 0 auto;
   }
   
-  .conta .content {
+  .sect-4-img .content {
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 20px;
+
   }
   
