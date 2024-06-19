@@ -1,4 +1,4 @@
-body, button, input, input::placeholder {
+body, button, input, input::placeholder, p, span {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .bg-img{
