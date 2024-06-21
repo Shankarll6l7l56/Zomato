@@ -43,3 +43,11 @@ body, button, input, input::placeholder, p, span {
   .footer-p{
     font-size: 14px;
   }
+  .section-6{
+    background-color: #faecdd;
+  }
+  /* @media screen and (max-width: 480px) {
+   h5 {
+    font-size: 5px; background-color: red;
+   }
+} */
